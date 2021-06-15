@@ -1,4 +1,4 @@
-It was our First Group project created during the Summer Internship from Techinest Private Ltd, Jaipur Rajasthan. Our task was to predict the revenue of restaurant based on the available dataset.<br>
+It was our First Group project created during the Summer Internship from Techinest Private Ltd, Jaipur Rajasthan. Our task was to predict the revenue of restaurant using linear Regression Algorithm based on the available dataset.<br>
 
 **Task Details :**<br>
 We have a restaurant dataset with us. You need to create a Machine Learning Model to predict the revenue. Also deploy the model into Python GUI application to fetch realtime queries over it.<br>
