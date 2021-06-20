@@ -1,1 +1,1 @@
-# 26thMay_B1_AI
+This is my 2nd Weekend Group project on Campus Recruitment System to predict whether the candidate will be placed or Not, based on certain details filled by the candidate like: 10th Percentage, 12th Percentage, Degree Percentage, and MBA Specialization (like: Mkt&HR or Mkt&Fin)
