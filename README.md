@@ -1,1 +1,1 @@
-This Repository contains all the programs and projects i completed during my Summer Training program from @TechiNest Pvt. ltd on Artificial Intelligence.
+This is our 4th Group Project on Real or Fake News Predictor using NLP (Natural Language Processing).
