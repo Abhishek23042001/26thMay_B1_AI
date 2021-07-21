@@ -1,1 +1,1 @@
-This Repository contains all the programs and projects i completed during my Summer Training program from @TechiNest Pvt. ltd on Artificial Intelligence.
+This is our 6th Group Project on Heart Disease Predictor using classification algorithm.
